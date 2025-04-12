@@ -2,5 +2,9 @@ numpy
 pandas
 seaborn
 scikit-learn
+matplotlib
+xgboost
+catboost
+lightgbm
 django
 -e .
