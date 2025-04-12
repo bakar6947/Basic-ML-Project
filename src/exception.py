@@ -29,7 +29,7 @@ class CustomException(Exception):
         
         
         
-# Test Custom Exception  
+# Test Custom Exception and Logging
 # if __name__ == "__main__":
 #     try:
 #         a = 1/0
